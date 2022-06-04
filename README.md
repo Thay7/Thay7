@@ -1,6 +1,7 @@
 # Olá! Eu sou Thay!
 
  <div>
+ 
   <a href="https://github.com/Thay7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thay7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thay7&layout=compact&langs_count=16&theme=dracula"/>
@@ -10,7 +11,7 @@
   <img align="center" alt="Thay-Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Thay-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Thay-NODE" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
-   <img align="right" alt="Thay-Gif" "width="200" height="200" src="https://i.picasion.com/pic92/13b3f184a92f42ca202b218332ec25d6.gif">
+   
 </div>
   
 ##
@@ -22,3 +23,4 @@
   ![Snake animation](https://github.com/thay7/thay7/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ <img align="right" alt="Thay-Gif" "width="200" height="200" src="https://i.picasion.com/pic92/13b3f184a92f42ca202b218332ec25d6.gif">
