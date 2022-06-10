@@ -11,7 +11,7 @@
   <img align="center" alt="Thay-Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Thay-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Thay-NODE" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
-   <img align="right" alt="Thay-Gif" "width="200" height="200" src="https://media.discordapp.net/attachments/975702598277533736/984470462111318076/download20220505074027.png?width=517&height=517">
+   <img align="right" alt="Thay-icon" "width="200" height="200" src="https://media.discordapp.net/attachments/975702598277533736/984470462111318076/download20220505074027.png?width=517&height=517">
    
 </div>
   
