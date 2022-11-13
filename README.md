@@ -7,7 +7,7 @@ If you want to contact me, use the email on the side.
  <div>
   <a href="https://github.com/Thay7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thay7&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thay7&layout=compact&langs_count=16&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thay7&layout=compact&langs_count=16&theme=radical" href="https://github.com/Thay7?tab=repositories"/>
 </div>
 
   <div style="display: inline_block"><br>
